@@ -1,0 +1,12 @@
+本光盘为EBDS5PV210实验平台配套光盘：
+
+1、Android系统与应用开发基础：本光盘\01-Documents\03-User's Manual\EBDS5PV210 移动互联网开发实验指导书.pdf；
+
+2、Linux系统与应用开发基础：本光盘\01-Documents\03-User's Manual\EBDS5PV210 嵌入式Linux开发实验指导书.pdf；
+
+3、在“本光盘\05-Example”文件夹下提供“Android手机应用开发扩展实验”源码包，可参看里面的教程进行实验；
+
+4、在“本光盘\05-Example”文件夹下提供“DISK-视频传输系统实训项目V1.2”实训包，可参看里面的教程进行实验。
+
+5、快速了解平台使用、恢复出厂映像（固化系统映像），也可以参看产品手册：本光盘\01-Documents\03-User's Manual\EBDS5PV210实验平台用户手册.pdf。
+
